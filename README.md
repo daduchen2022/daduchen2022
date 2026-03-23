@@ -1,16 +1,13 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**daduchen2022/daduchen2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Dadu Chen, a fourth-year Mathematics and Statistics major at the University of Chicago.
 
-Here are some ideas to get you started:
+My main interests are probability theory and AI agents. I also enjoy writing articles and books, singing, and playing Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Math and Statistics at UChicago
+- 📚 Interested in probability theory and AI agents
+- ✍️ Writer of articles and books
+- 🎵 Singing enthusiast
+- ⚫ Go player
+
+Welcome to my GitHub profile.
